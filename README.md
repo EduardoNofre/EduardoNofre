@@ -179,4 +179,11 @@
       height="200" 
       src="https://github-profile-trophy.vercel.app/?username=EduardoNofre" 
   />
+
+  <img 
+      align="left" 
+      alt="Contribuição" 
+      height="200" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoNofre&theme=react-dark" 
+  />
 </p>
