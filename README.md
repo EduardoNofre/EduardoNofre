@@ -48,13 +48,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="JSF" 
-    title="JSF" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://jakarta.ee/images/logos/jakartaee-logo-orange.svg" 
+<img
+    align="left"
+    alt="Eclipse IDE"
+    title="Eclipse IDE"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/0/00/Eclipse_logo.svg"
 />
 <img 
     align="left" 
