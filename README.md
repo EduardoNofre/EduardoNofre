@@ -50,7 +50,7 @@
     align="left"
     alt="Eclipse IDE"
     title="Eclipse IDE"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://github.com/EduardoNofre/EduardoNofre/blob/main/iconSTS.png"
 />
