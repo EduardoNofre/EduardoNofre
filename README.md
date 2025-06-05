@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨🏻 Eduardo Nofre
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-End`**
 
 ## Me chamo Eduardo Nofre. 
   -  tenho 44 anos e sou natural de São Paulo. 
