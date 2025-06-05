@@ -50,11 +50,11 @@
 
 <img 
     align="left" 
-    alt="Jakarta EE / JSF" 
-    title="Jakarta EE / JSF" 
+    alt="Java EE" 
+    title="Java EE / JSF" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://jakarta.ee/images/logos/jakartaee-logo-orange.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
