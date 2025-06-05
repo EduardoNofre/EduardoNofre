@@ -105,11 +105,12 @@
 />
 <img
     align="left"
-    alt="Microservices"
-    title="Microservices"
+    alt="devops"
+    title="devops"
     width="30px"
     style="padding-right: 10px;"
-    src="https://img.icons8.com/ios/50/000000/microservices.png"
+    src="https://github.com/EduardoNofre/EduardoNofre/blob/main/devops.png"
+  
 />
 <img 
     align="left" 
