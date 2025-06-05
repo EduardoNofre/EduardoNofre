@@ -93,7 +93,7 @@
     title="SonarQube"
     width="30px"
     style="padding-right: 10px;"
-    src="https://www.sonarqube.org/wp-content/uploads/2019/06/SonarQube-logo.png"
+    src="https://github.com/EduardoNofre/EduardoNofre/blob/main/Sonarqube.png"
 />
 <img 
     align="left" 
