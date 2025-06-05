@@ -180,11 +180,12 @@
       src="https://github-profile-trophy.vercel.app/?username=EduardoNofre" 
   />
 
+<div align="center">
   <img 
-      align="left" 
       alt="Contribuição" 
       height="200" 
-       width="100%" 
+      width="100%" 
       src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoNofre&theme=react-dark" 
   />
+</div>
 </p>
