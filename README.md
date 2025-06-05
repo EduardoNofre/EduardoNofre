@@ -52,7 +52,7 @@
     title="Eclipse IDE"
     width="30px"
     style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/0/00/Eclipse_logo.svg"
+    src="https://github.com/EduardoNofre/EduardoNofre/blob/main/iconSTS.png"
 />
 <img 
     align="left" 
