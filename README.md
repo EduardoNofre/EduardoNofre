@@ -23,14 +23,6 @@
             src="https://custom-icon-badges.demolab.com/github/followers/EduardoNofre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-
-        <a href="https://github.com/EduardoNofre?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-           src="https://github-profile-trophy.vercel.app/?username=EduardoNofre" 
-        />
-    </a>
 </p>
 
 ---
@@ -181,4 +173,10 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNofre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<img 
+      align="left" 
+      alt="Trofeus" 
+      height="200" 
+      src="https://github-profile-trophy.vercel.app/?username=EduardoNofre" 
+  />
 </p>
