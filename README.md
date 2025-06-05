@@ -41,11 +41,20 @@
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Spring" 
+    title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Jakarta EE / JSF" 
+    title="Jakarta EE / JSF" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://jakarta.ee/images/logos/jakartaee-logo-orange.svg" 
 />
 <img 
     align="left" 
@@ -57,51 +66,51 @@
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Maven" 
+    title="Maven" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachemaven/apachemaven-original.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Docker" 
+    title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="AWS" 
+    title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+/>
+<img
+    align="left"
+    alt="SonarQube"
+    title="SonarQube"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://www.sonarqube.org/wp-content/uploads/2019/06/SonarQube-logo.png"
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Jenkins" 
+    title="Jenkins" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+<img
+    align="left"
+    alt="Microservices"
+    title="Microservices"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/ios/50/000000/microservices.png"
 />
 <img 
     align="left" 
