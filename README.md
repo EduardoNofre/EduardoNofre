@@ -84,7 +84,8 @@
     title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://github.com/EduardoNofre/EduardoNofre/blob/main/AWS.png"
+  AWS.png
 />
 <img
     align="left"
