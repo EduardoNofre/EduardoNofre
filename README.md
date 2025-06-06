@@ -147,6 +147,8 @@
 
 ### 📊 Estatísticas
 
+---
+
 <!-- Trophies -->
 <div align="center">
   <img 
