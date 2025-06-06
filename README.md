@@ -6,9 +6,9 @@
 ----
 
 <p align="center">
-<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+<a href="https://www.linkedin.com/in/eduardo-nofre-reis-de-sa-53992458/" target="_blank">
   <img 
-    src="https://www.linkedin.com/in/eduardo-nofre-reis-de-sa-53992458/" 
+    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" 
     alt="LinkedIn" 
   />
 </a>
