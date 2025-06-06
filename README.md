@@ -2,7 +2,9 @@
 <h1 align="center">Desenvolvedor Java Back-End</h1>
 
 <p align="center">
-👉 <a href="https://www.linkedin.com/in/eduardo-nofre-reis-de-sa-53992458/" target="_blank">  👈
+👉 
+  <a href="https://www.linkedin.com/in/eduardo-nofre-reis-de-sa-53992458/" target="_blank">  
+    👈
   <img 
      title="Perfil profissional" 
     src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" 
