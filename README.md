@@ -13,7 +13,7 @@
   -  Sou natural de **São Paulo**. 
   -  Ensino superior completo: **Sistema de informação concluido em 2006**. 
   -  Sou apaixonado por tecnologia e compartilho meu conhecimento através do GITHUB.
-## **`Desenvolvedor Back-End`**.
+## **`Desenvolvedor Java Back-End`**.
   Sou um Programador Java Sênior com mais de 10 anos de experiência no desenvolvimento e manutenção de sistemas robustos, utilizando tecnologias de ponta para resolver desafios complexos. Ao longo da minha carreira, atuei em empresas de destaque como **BSI**, **Accenture Brasil**, **Itaú Unibanco**, **Grupo TCI**, **Pamcary**, **Conta Zap** e **Pamcary**, onde desenvolvi soluções em Java (backend, microserviços e sistemas distribuídos), utilizando frameworks como Spring Boot, Hibernate, JSF, Primefaces, e ferramentas como Jenkins, SonarQube e AWS. Minha expertise inclui a implementação de APIs RESTful, integração de sistemas e a construção de plataformas escaláveis que atendem às necessidades de grandes corporações.
 
 ---
