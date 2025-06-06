@@ -174,7 +174,9 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNofre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
   ---
+  
 </div>
 <!-- Gráfico de contribuições centralizado -->
 <div align="center">
