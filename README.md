@@ -17,15 +17,9 @@
     <a href="https://github.com/EduardoNofre/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/EduardoNofre/github-readme-stats?color=0088ff" />
     </a>
-  
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/EduardoNofre/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/EduardoNofre/github-readme-stats/badge" />
-    </a>  s
-    <br />
-    <br />
   </p>
   
-<p align="left"> 
+<p align="center">
     <a href="https://github.com/EduardoNofre?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
