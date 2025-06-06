@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻 Eduardo Nofre</h1>
-<h1 align="center">`Desenvolvedor Java Back-End`</h1>
+<h1 align="center">Desenvolvedor Java Back-End</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eduardo-nofre-reis-de-sa-53992458/" target="_blank">
