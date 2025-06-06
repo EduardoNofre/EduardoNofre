@@ -2,8 +2,6 @@
 
 <h1 align="center">👨🏻 Eduardo Nofre</h1>
 
-----
-
 <p align="center">
 <a href="https://www.linkedin.com/in/eduardo-nofre-reis-de-sa-53992458/" target="_blank">
   <img 
