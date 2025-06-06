@@ -11,35 +11,16 @@
     <a href="https://github.com/EduardoNofre/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/EduardoNofre/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/EduardoNofre/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/EduardoNofre/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
     <a href="https://github.com/EduardoNofre/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/EduardoNofre/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/EduardoNofre/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/EduardoNofre/github-readme-stats?color=0088ff" />
     </a>
+  
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/EduardoNofre/github-readme-stats">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/EduardoNofre/github-readme-stats/badge" />
-    </a>
-
-<p align="left"> 
-    <a href="https://github.com/EduardoNofre?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EduardoNofre?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/EduardoNofre?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EduardoNofre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-  
+    </a>  s
     <br />
     <br />
   </p>
