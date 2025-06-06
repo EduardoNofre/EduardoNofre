@@ -1,8 +1,7 @@
 
 
-<p align="center">
-# 👨🏻 Eduardo Nofre
-</a>
+<h1 align="center">👨🏻 Eduardo Nofre</h1>
+
 ----
 
 <p align="center">
