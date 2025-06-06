@@ -166,11 +166,13 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EduardoNofre&show_icons=true&theme=radical"
   />
+  ---
   <img 
       alt="Top Langs" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNofre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  ---
 </div>
 <!-- Gráfico de contribuições centralizado -->
 <div align="center">
