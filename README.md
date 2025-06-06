@@ -134,33 +134,40 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <div align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EduardoNofre&show_icons=true&theme=radical"
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNofre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<!-- Gráfico de contribuições centralizado -->
+<div align="center">
   <img 
       alt="Contribuição" 
       height="200" 
       width="100%" 
       src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoNofre&theme=react-dark" 
   />
+</div>
 
-<img 
-      align="left" 
-      alt="Trofeus" 
+<br/>
+
+<!-- GitHub Stats + Tecnologias mais usadas centralizados lado a lado -->
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=EduardoNofre&show_icons=true&theme=radical"
+  />
+  <img 
+      alt="Top Langs" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNofre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <img 
+      alt="Troféus" 
       height="200" 
       src="https://github-profile-trophy.vercel.app/?username=EduardoNofre" 
   />
 </div>
-</p>
