@@ -13,7 +13,7 @@
 
 ----
   -  Tenho 44 anos.
-  -  Sou natural de *São Paulo*. 
+  -  Sou natural de **São Paulo**. 
   -  Ensino superior em *Sistema de informação concluido em 2006*. 
   -  Sou apaixonada por tecnologia e compartilho meu conhecimento através do GITHUB, onde ensino a criar projetos web.
 ## **`Desenvolvedor Back-End`**.
