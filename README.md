@@ -1,6 +1,5 @@
 # 👨🏻 Eduardo Nofre
 
-
   -  Tenho 44 anos.
   -  Sou natural de *São Paulo*. 
   -  Ensino superior em *Sistema de informação concluido em 2006*. 
@@ -8,6 +7,29 @@
 ## **`Desenvolvedor Back-End`**.
   Sou um Programador Java Sênior com mais de 10 anos de experiência no desenvolvimento e manutenção de sistemas robustos, utilizando tecnologias de ponta para resolver desafios complexos. Ao longo da minha carreira, atuei em empresas de destaque como *Accenture Brasil*, *Itaú Unibanco*, *Grupo TCI*, *Pamcary*, *Conta Zap* e *Pamcary*, onde desenvolvi soluções em Java (backend, microserviços e sistemas distribuídos), utilizando frameworks como Spring Boot, Hibernate, JSF, Primefaces, e ferramentas como Jenkins, SonarQube e AWS. Minha expertise inclui a implementação de APIs RESTful, integração de sistemas e a construção de plataformas escaláveis que atendem às necessidades de grandes corporações.
 
+<p align="center">
+    <a href="https://github.com/EduardoNofre/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/EduardoNofre/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/EduardoNofre/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/EduardoNofre/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/EduardoNofre/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/EduardoNofre/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/EduardoNofre/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/EduardoNofre/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/EduardoNofre/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/EduardoNofre/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/EduardoNofre/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/EduardoNofre/github-readme-stats/badge" />
+    </a>
+    <br />
+    <br />
+  </p>
+  
 <p align="left"> 
     <a href="https://github.com/EduardoNofre?tab=repositories&sort=stargazers">
         <img 
