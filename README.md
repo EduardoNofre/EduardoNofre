@@ -134,13 +134,12 @@
 
 ### 📊 Estatísticas
 
-<!-- Gráfico de contribuições centralizado -->
+<!-- Trophies -->
 <div align="center">
   <img 
-      alt="Contribuição" 
+      alt="Troféus" 
       height="200" 
-      width="100%" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoNofre&theme=react-dark" 
+      src="https://github-profile-trophy.vercel.app/?username=EduardoNofre" 
   />
 </div>
 
@@ -160,14 +159,15 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNofre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-
-<br/>
-
-<!-- Trophies -->
+<!-- Gráfico de contribuições centralizado -->
 <div align="center">
   <img 
-      alt="Troféus" 
+      alt="Contribuição" 
       height="200" 
-      src="https://github-profile-trophy.vercel.app/?username=EduardoNofre" 
+      width="100%" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoNofre&theme=react-dark" 
   />
 </div>
+<br/>
+
+
