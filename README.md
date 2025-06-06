@@ -1,5 +1,12 @@
 # 👨🏻 Eduardo Nofre
 
+<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" 
+    alt="LinkedIn" 
+  />
+</a>
+
   -  Tenho 44 anos.
   -  Sou natural de *São Paulo*. 
   -  Ensino superior em *Sistema de informação concluido em 2006*. 
