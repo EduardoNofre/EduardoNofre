@@ -189,7 +189,7 @@
     align="left" 
     alt="postgresql" 
     title="postgresql"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
