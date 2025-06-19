@@ -166,6 +166,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
 />
+
+<img 
+    align="left" 
+    alt="elasticsearch" 
+    title="elasticsearch"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg"
+/>
 </div>
 <br/>
 <br/>
