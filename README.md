@@ -150,6 +150,17 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
+
+<img 
+    align="left" 
+    alt="GitLab" 
+    title="GitLab"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
+/>
+
+  
 </div>
 <br/>
 <br/>
