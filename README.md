@@ -169,11 +169,11 @@
 
 <img 
     align="left" 
-    alt="elasticsearch" 
-    title="elasticsearch"
+    alt="hibernate" 
+    title="hibernate"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"
 />
 </div>
 <br/>
