@@ -144,13 +144,14 @@
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="GitHub" 
+    title="GitHub"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
-
+<br>
+<br>
 <img 
     align="left" 
     alt="GitLab" 
