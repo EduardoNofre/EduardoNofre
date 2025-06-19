@@ -91,7 +91,7 @@
     title="Maven" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://github.com/EduardoNofre/EduardoNofre/blob/main/maven.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"
 />
 <img 
     align="left" 
@@ -99,7 +99,7 @@
     title="Docker" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -107,7 +107,7 @@
     title="AWS" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://github.com/EduardoNofre/EduardoNofre/blob/main/AWS.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
   AWS.png
 />
 <img
@@ -116,7 +116,7 @@
     title="SonarQube"
     width="50px"
     style="padding-right: 10px;"
-    src="https://github.com/EduardoNofre/EduardoNofre/blob/main/Sonarqube.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg"
 />
 <img 
     align="left" 
