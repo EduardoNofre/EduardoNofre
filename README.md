@@ -175,6 +175,25 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"
 />
+
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="50px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="postgresql" 
+    title="postgresql"
+    width="50px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+
 </div>
 <br/>
 <br/>
