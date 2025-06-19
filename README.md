@@ -210,7 +210,14 @@
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
-
+<img 
+    align="left" 
+    alt="oracle" 
+    title="oracle"
+    width="50px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+/>
 
 </div>
 <br/>
