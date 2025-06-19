@@ -159,8 +159,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
 />
+<img 
+    align="left" 
+    alt="kafka" 
+    title="kafka"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
+/>
 
-  
 </div>
 <br/>
 <br/>
