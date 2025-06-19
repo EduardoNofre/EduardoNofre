@@ -69,13 +69,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
 />
 
-<img
-    align="left"
-    alt="Eclipse IDE"
-    title="Eclipse IDE"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://github.com/EduardoNofre/EduardoNofre/blob/main/iconSTS.png"
+<img 
+    align="left" 
+    alt="clipse" 
+    title="clipse"
+    width="50px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
 />
 <img 
     align="left" 
@@ -218,6 +218,8 @@
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
+
+
 
 </div>
 <br/>
