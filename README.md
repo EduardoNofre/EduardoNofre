@@ -206,7 +206,7 @@
     align="left" 
     alt="postman" 
     title="postman"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
