@@ -24,7 +24,7 @@
   
 ----
 ## Sobre min:
-  Sou um Programador **Java Sênior com mais de 10 anos** de experiência no desenvolvimento e manutenção de sistemas robustos, utilizando tecnologias de ponta para resolver desafios complexos. Ao longo da minha carreira, atuei em empresas de destaque.
+  Sou um Programador **Java Sênior com mais de 10 anos** de experiência no **desenvolvimento** e **manutenção de sistemas** robustos, utilizando tecnologias de ponta para resolver desafios complexos. Ao longo da minha carreira, atuei em empresas de destaque.
 
 ---
 
