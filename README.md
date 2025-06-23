@@ -1,6 +1,11 @@
 <h1 align="center">👨🏻 Eduardo Nofre</h1>
 <h1 align="center">Desenvolvedor Java Back-End</h1>
 
+<div align="center">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+</div>
+
 <p align="center">
 👉 
   <a href="https://www.linkedin.com/in/eduardo-nofre-reis-de-sa-53992458/" target="_blank">  
